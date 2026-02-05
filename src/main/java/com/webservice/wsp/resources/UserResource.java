@@ -13,7 +13,7 @@ import com.webservice.wsp.entities.User;
 import com.webservice.wsp.services.UserService;
 
 @RestController
-@RequestMapping(value = "/users/")
+@RequestMapping(value = "/users")
 public class UserResource {
 	
 	@Autowired

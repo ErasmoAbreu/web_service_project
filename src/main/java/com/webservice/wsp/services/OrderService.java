@@ -8,7 +8,6 @@ import org.springframework.stereotype.Service;
 
 import com.webservice.wsp.entities.Order;
 import com.webservice.wsp.repositories.OrderRepository;
-import com.webservice.wsp.repositories.UserRepository;
 
 @Service
 public class OrderService {
